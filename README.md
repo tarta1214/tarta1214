@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @tarta1214
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+tarta1214/tarta1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->hi my name is tarta and i´m interested to learn java script (jc)
+I´m currently learning html,java,java script and css but currently i´m learning java script
+you can contact me on my email tartaruguinhanolago@gmail.com
+
